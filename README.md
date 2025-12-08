@@ -71,4 +71,4 @@
 
 [![devngho's GitHub stats](https://github-readme-stats-three-eta-69.vercel.app/api?username=devngho&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-three-eta-69.vercel.app/api/top-langs/?username=devngho&langs_count=8&hide=Jupyter%20Notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-three-eta-69.vercel.app/api/top-langs/?username=devngho&langs_count=8&hide=Jupyter%20Notebook,css,html&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
