@@ -69,6 +69,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ngho)](https://solved.ac/profile/ngho)
 
-[![devngho's GitHub stats](https://github-readme-stats.vercel.app/api?username=devngho&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![devngho's GitHub stats](https://github-readme-stats-three-eta-69.vercel.app/api?username=devngho&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devngho&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-three-eta-69.vercel.app/api/top-langs/?username=devngho&langs_count=8&hide=Jupyter%20Notebook,css,html)](https://github.com/anuraghazra/github-readme-stats)
