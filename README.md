@@ -61,6 +61,7 @@
 
 <details><summary>Bio
 </summary>
+  
 - 북일고등학교(2025.03~)
 - 천안동성중학교(2022.03~2025.02)
 </details>
